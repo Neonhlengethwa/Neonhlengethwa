@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Neonhlengethwa
-- 👀 I’m interested in climate action
-- 🌱 I’m currently learning c_programming
-- 💞️ I’m looking to collaborate on the alx_se program
-- 📫 How to reach me dineonhlengethwa0@gmail.com
+- 👀 I’m interested ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate
+- 📫 How to reach me ...
 
 <!---
 Neonhlengethwa/Neonhlengethwa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
